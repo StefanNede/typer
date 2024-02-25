@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    padding-left:0;
+    margin-left:0;
+}
+
+body {
+    background-color: #242424;
+    color: white;
+}
+
+input {
+    width: 30vw;
+}
