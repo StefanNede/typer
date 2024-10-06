@@ -6,7 +6,7 @@ Contains working login system with stats that are saved, online and offline game
 | Tech stack: HTML, CSS, Javascript, React.JS, Express, mySQL
 
 ### Home Page
-
+[![Video Title](https://img.youtube.com/vi/PjGeCM0rP2Q/0.jpg)](https://www.youtube.com/watch?v=PjGeCM0rP2Q)
 
 ### Online Mode
 Uses socket.io to allow for multiplayer.
